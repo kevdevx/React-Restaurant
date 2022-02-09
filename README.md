@@ -15,3 +15,5 @@ These are Snapshots of the design:
 
 
 ![alt text](https://user-images.githubusercontent.com/99336022/153270924-6cd06339-f35d-46c6-9e5f-8718ddb1b3c7.png?raw=true)
+
+![alt text](https://user-images.githubusercontent.com/99336022/153270957-79d4e2ee-237d-489f-8961-cae688cf835f.png?raw=true)

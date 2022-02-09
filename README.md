@@ -6,3 +6,5 @@ This is the Live demo test version : https://miranda-restaurant.netlify.com
 These are Snapshots of the design:
 
 ![alt text](https://user-images.githubusercontent.com/99336022/153270208-e4a46f38-3350-4cb0-a5bf-146c6852000a.png?raw=true)
+
+![alt text](https://user-images.githubusercontent.com/99336022/153270383-84aacf1d-c69b-4f5b-85ce-47a926cdfb86.png?raw=true)
